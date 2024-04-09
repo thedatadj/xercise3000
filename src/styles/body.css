@@ -1,7 +1,7 @@
 .body
 {
     background-color: #872341;
-    height: 87svh;
+    height: 86svh;
     padding-top: 1svh;
     padding-left: 5svw;
     padding-right: 5svw;
@@ -47,12 +47,14 @@
 {
     background-color: #BE3144;
     width: 90svw;
+    height: 50svh;
     margin-top: 4svh;
     align-items: center;
 }
 
 .animation
 {
+    height: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
