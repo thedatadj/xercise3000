@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/xercise3000/static/css/main.08af6e5d.css",
+    "main.css": "/xercise3000/static/css/main.57e6ca0d.css",
     "main.js": "/xercise3000/static/js/main.f9d230f5.js",
     "static/js/453.c1ac111a.chunk.js": "/xercise3000/static/js/453.c1ac111a.chunk.js",
     "static/media/image 1.png": "/xercise3000/static/media/image 1.0d191f5f0675ad167d04.png",
@@ -9,12 +9,12 @@
     "static/media/Pause Button.svg": "/xercise3000/static/media/Pause Button.6d52b2db730040e64f784eb869cd5efd.svg",
     "static/media/Menu.svg": "/xercise3000/static/media/Menu.cf719713baf3ae8984fe277edce4b72b.svg",
     "index.html": "/xercise3000/index.html",
-    "main.08af6e5d.css.map": "/xercise3000/static/css/main.08af6e5d.css.map",
+    "main.57e6ca0d.css.map": "/xercise3000/static/css/main.57e6ca0d.css.map",
     "main.f9d230f5.js.map": "/xercise3000/static/js/main.f9d230f5.js.map",
     "453.c1ac111a.chunk.js.map": "/xercise3000/static/js/453.c1ac111a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08af6e5d.css",
+    "static/css/main.57e6ca0d.css",
     "static/js/main.f9d230f5.js"
   ]
 }
