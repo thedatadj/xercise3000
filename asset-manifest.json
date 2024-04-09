@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xersice3000/static/css/main.08af6e5d.css",
+    "main.js": "/xersice3000/static/js/main.d0bff969.js",
+    "static/js/453.4af688c8.chunk.js": "/xersice3000/static/js/453.4af688c8.chunk.js",
+    "static/media/image 1.png": "/xersice3000/static/media/image 1.0d191f5f0675ad167d04.png",
+    "static/media/Next page.svg": "/xersice3000/static/media/Next page.58e5df9e4765e2c173b378d2745d4300.svg",
+    "static/media/Back To.svg": "/xersice3000/static/media/Back To.4fbcb263f4ee2ff0ceecaf1999d9c267.svg",
+    "static/media/Pause Button.svg": "/xersice3000/static/media/Pause Button.6d52b2db730040e64f784eb869cd5efd.svg",
+    "static/media/Menu.svg": "/xersice3000/static/media/Menu.cf719713baf3ae8984fe277edce4b72b.svg",
+    "index.html": "/xersice3000/index.html",
+    "main.08af6e5d.css.map": "/xersice3000/static/css/main.08af6e5d.css.map",
+    "main.d0bff969.js.map": "/xersice3000/static/js/main.d0bff969.js.map",
+    "453.4af688c8.chunk.js.map": "/xersice3000/static/js/453.4af688c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08af6e5d.css",
+    "static/js/main.d0bff969.js"
+  ]
+}
