@@ -49,20 +49,38 @@
     width: 90svw;
     height: 50svh;
     margin-top: 4svh;
-    align-items: center;
+    display: grid;
+    grid-template: 100% / 20svw 50svw 20svw;
 }
 
 .animation
 {
-    height: 100%;
-    display: block;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
+    align-self:center;
+}
+
+.animations h1 
+{
+    margin: 0;
+    padding: 0;
+}
+#timer
+{
+    width: 100%;
+    z-index: 200;
+}
+#counter
+{
+    padding-left: 10svw;
+    padding-right: 0;
+    width: 100%;
 }
 
 .bottom-titles
 {
-    margin-top: 3svh;
+    margin-top: 0;
     display: grid;
     grid-template: 1em 1em / 1fr 2fr 1fr;
     row-gap: 1svh;
@@ -72,6 +90,7 @@
     grid-area: 1 / 2;
     justify-self: center;
 }
+
 #next-exercise
 {
     color: #22092C;
